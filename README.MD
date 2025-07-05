@@ -72,7 +72,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://avatars.githubusercontent.com/u/140905190?v=4"
     />
     <p>&nbsp&nbsp&nbspDiogo Louvo Pievan<br>
     &nbsp&nbsp&nbsp
