@@ -30,8 +30,8 @@ seguem abaixo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- [Leonardo.ai](https://leonardo.ai)
+- [Canva](https://www.canva.com)
 
 ## 🧠 Prompts
 
@@ -40,20 +40,21 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | crie um titulo para um ebook sobre manipulação de diretorios no sistema linux, o nicho do ebook é programação e o subnicho é sistemas linux, o título deve ser épico e curto e tenha tematicas nerds, me liste 5 variações de titulos.                                                      |
+| conteúdo | faça um texto para ebook, com foco em manipulação de diretorios no sistema LINUX, listando os principais Comandos com exemplos em código 
+{REGRAS}> Explique sempre de uma maneira simples; > Deixe o texto enxuto; > Sempre traga exemplos de código em contextos reais; > sempre deixe um título sugestivo por tópico; |
 
 
-Midjourney：
+Leonardo.ai：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | A conceptual, high-resolution digital illustration featuring Tux, the iconic Linux penguin, standing heroically in the center of a vast digital environment. The color palette should be strictly black, white, and yellow, creating a strong visual contrast. Around Tux, abstract directory paths branch out like a glowing network. In the background, a beautifully designed terminal window is displayed prominently, with stylized shell commands and file structures visible on the screen. The atmosphere should evoke a sense of power, control, and open-source mastery — combining minimalist hacker aesthetics with a sleek, modern feel. Integrate elements like floating folders, symbolic links, or command lines to reinforce the directory theme|
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via Leonardo.ai
 
 ## 📚 Materiais
 
@@ -73,15 +74,12 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       width=80 
       src="https://avatars.githubusercontent.com/u/37452836?v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspDiogo Louvo Pievan<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
+    <a href="https://github.com/diogolpievan">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
+    <a href="www.linkedin.com/in/diogolpievan">LinkedIn</a>
 &nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
-    Instagram</a>
 &nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
@@ -89,4 +87,4 @@ felipe-exe">LinkedIn</a>
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Diogo Louvo Pievan](https://github.com/diogolpievan)
